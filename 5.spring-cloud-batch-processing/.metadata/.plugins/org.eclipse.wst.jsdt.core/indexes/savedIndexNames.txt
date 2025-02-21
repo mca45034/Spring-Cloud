@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+D:\rays\Workspace\SpringCloud\5.spring-cloud-batch-processing\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3599791558.index
+1050042363.index
+1127662129.index
+185985041.index
+4011751411.index
+821608647.index
+3120250875.index
+2227838403.index
